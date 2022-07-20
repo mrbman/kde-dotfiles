@@ -1,0 +1,20 @@
+[KFileDialog Settings]
+Recent Files[$e]=2.jpg,file:$HOME/Pictures/abstract_wave_art_background-wallpaper-1920x1200.jpg,file:$HOME/Pictures/39401901581_a018514944_o.jpg,file:$HOME/Pictures/34502640501_866ba07425_o.jpg,file:$HOME/Pictures/32170418410_215c9c22dd_o.jpg,file:$HOME/Pictures/30222548734_f90d939a31_o.jpg,file:$HOME/Pictures/30119711466_92cf995690_o.jpg,file:$HOME/Pictures/25495629013_fc469d75e5_o.jpg,file:$HOME/Pictures/24900035966_b4b6170b95_o.jpg,file:$HOME/Pictures/1599462.jpg,file:$HOME/Pictures/526675.jpg,file:$HOME/Pictures/8bd254478b19391796398bb5718da8d15526b501.jpeg,file:$HOME/Pictures/7fb998f1a88719a183cfde9bcc3ab55959ccfdae.jpeg,file:$HOME/Pictures/4K-Butterfly-Abstract.png,file:$HOME/Pictures/3wdqm0srwdn31.jpg,file:$HOME/Pictures/2.jpg,file:$HOME/Pictures/alien-cyborg-terminator-sci-fi-creatures-painting-robot-33096.jpeg,file:$HOME/Pictures/abstract-1780241.jpg
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/Documents/,file:$HOME/
+detailViewIconSize=16
+
+[PlasmaViews][Panel 2]
+floating=1
+panelOpacity=2
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=48
+
+[PlasmaViews][Panel 2][Horizontal2304]
+thickness=38
+
+[PlasmaViews][Panel 2][Horizontal3456]
+thickness=48
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js
